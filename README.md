@@ -1,0 +1,14 @@
+# StudentStats
+
+Module Python pour calculer des statistiques de notes (moyenne, min, max).
+
+---
+
+## Équipe du Projet
+
+| Rôle | Nom de l'étudiant |
+|------|-------------------|
+| Chef de Projet | GUETOUCHE Moncef |
+| Architecte | DAOUD Wassim |
+| Développeur | HANANI Anis |
+| Responsable Qualité | MAZARI Melissa |
