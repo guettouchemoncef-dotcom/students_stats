@@ -9,6 +9,6 @@ Module Python pour calculer des statistiques de notes (moyenne, min, max).
 | Rôle | Nom de l'étudiant |
 |------|-------------------|
 | Chef de Projet | GUETOUCHE Moncef |
-| Architecte | DAOUD Wassim |
+| Architecte | MAZARI Melissa |
 | Développeur | HANANI Anis |
-| Responsable Qualité | MAZARI Melissa |
+| Responsable Qualité | DAOUD Wassim |
